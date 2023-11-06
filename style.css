@@ -1,0 +1,23 @@
+.heading{
+    margin-top: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    color:white;
+  }
+  body{
+    background-image: url(./thirukkural.jpg);
+    background-repeat:repeat;
+    background-attachment:fixed;
+    background-size: 100% 100%;
+  }
+  .card{
+    width: 80%;
+  }
+  .form-control{
+    width: 30%;
+  }
+  .desc{
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+  }
